@@ -1,0 +1,17 @@
+body {
+    background-color: hsl(212, 45%, 89%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+#main-box {
+    margin-top: 25vh;
+    height: 50vh;
+    width: 25vw;
+    display: inline-block;
+    background-color: white;
+    border-radius: 20px;
+}
