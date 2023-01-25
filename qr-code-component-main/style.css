@@ -5,13 +5,45 @@ body {
     align-items: center;
 }
 
-
-
 #main-box {
     margin-top: 25vh;
     height: 50vh;
-    width: 25vw;
+    width: 15vw;
     display: inline-block;
     background-color: white;
-    border-radius: 20px;
+    border-radius: 15px;
 }
+
+    #qr-code-box {
+        background-color: #2b7dfa;
+        margin: 20px;
+        height: 50%;
+        border-radius: 15px;
+
+    }
+
+        .heading {
+            padding-top: 10px;
+            padding-left: 20px;
+            padding-right: 20px;
+
+            color: hsl(218, 44%, 22%);
+            font-size: 20px;
+            font-family: 'Outfit', sans-serif;
+            font-weight: 700;
+
+            text-align: center;
+        }
+
+        .paragraph {
+            padding-top: 10px;
+            padding-left: 20px;
+            padding-right: 20px;
+
+            color: hsl(220, 15%, 55%);
+            font-size: 15px;
+            font-family: 'Outfit', sans-serif;
+            font-weight: 400;
+
+            text-align: center;
+        }
