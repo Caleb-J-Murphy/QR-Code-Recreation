@@ -9,8 +9,8 @@ body {
 
 #main-box {
     margin-top: 25vh;
-    height: 50vh;
-    width: 15vw;
+    height:50vh;
+    width: 288px;
     display: inline-block;
     background-color: white;
     border-radius: 15px;
@@ -20,27 +20,28 @@ body {
 
     #qr-code-box {
         background-color: #2b7dfa;
-        margin: 20px;
-        height: 50%;
-        border-radius: 15px;
+        margin: 15px;
+        height: 228;
+        height: 12vw;
+        border-radius: 10px;
 
     }
 
         .heading {
-            padding-top: 10px;
+            padding-top: 20px;
             padding-left: 20px;
             padding-right: 20px;
 
             color: hsl(218, 44%, 22%);
             font-size: 20px;
             font-family: 'Outfit';
-            font-weight: 700;
+            font-weight: 1000;
 
             text-align: center;
         }
 
         .paragraph {
-            padding-top: 10px;
+            padding-top: 20px;
             padding-left: 20px;
             padding-right: 20px;
 
